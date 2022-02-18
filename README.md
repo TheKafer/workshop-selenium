@@ -5,6 +5,10 @@ The purpose of this project is not only to make a workshop for an interview, the
 ## Test
 Add product to the car in Amazon.
 
+## Important
+
+Download ChomeDriver and add this in the root of the project -> https://chromedriver.chromium.org/downloads
+
 ## Note
 
 video evidence in the git
