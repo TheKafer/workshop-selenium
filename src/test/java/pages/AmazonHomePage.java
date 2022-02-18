@@ -2,16 +2,13 @@ package pages;
 
 import components.SearchBox;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
 
-public class AmazonHomePage {
-    private WebDriver driver;
+public class AmazonHomePage extends base {
     private SearchBox searchBox;
 
     public AmazonHomePage(WebDriver driver) {
-        this.driver = driver;
+        super(driver);
         this.searchBox = new SearchBox(driver);
-        PageFactory.initElements(driver, this);
     }
 
     public void open() {

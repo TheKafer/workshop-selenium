@@ -1,1 +1,7 @@
 chromedriver
+.idea
+
+.DS_Store
+
+log/
+target/
