@@ -7,7 +7,7 @@ Add product to the car in Amazon.
 
 ## Important
 
-Download ChomeDriver and add this in the root of the project -> https://chromedriver.chromium.org/downloads
+Download ChomeDriver and add this to the root of the project -> https://chromedriver.chromium.org/downloads
 
 ## Note
 
